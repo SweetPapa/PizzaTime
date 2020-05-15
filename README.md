@@ -1,3 +1,8 @@
+# PizzAtime!!! - App For Friends Stuck Inside During a Pandemic
+This project is starting off a fork from a simple webrtc example.
+
+Will change readme and other items later after inital testing is done.
+
 # Simple WebRTC Video Chat Using Firebase
 
 ![Simple WebRTC Video Chat Using Firebase](https://user-images.githubusercontent.com/26162804/31845534-ac2cca0c-b5cf-11e7-8874-94c4d978fcb8.jpg)
